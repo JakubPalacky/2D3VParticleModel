@@ -1,0 +1,6 @@
+#ifndef HRANICE_H_INCLUDED
+#define HRANICE_H_INCLUDED
+
+extern int HRANICNI_PODMINKY(DDCASTICE *castice);
+
+#endif // HRANICE_H_INCLUDED
